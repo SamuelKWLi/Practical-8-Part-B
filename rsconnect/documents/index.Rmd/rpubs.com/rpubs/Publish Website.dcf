@@ -1,0 +1,10 @@
+name: Publish Website
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/554138/ecca3339fbec42adb93512555fadfa2e
+bundleId: https://api.rpubs.com/api/v1/document/554138/ecca3339fbec42adb93512555fadfa2e
+url: http://rpubs.com/SamuelKWLi/554138
+when: 1574880638.24374
