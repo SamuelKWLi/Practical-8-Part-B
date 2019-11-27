@@ -1,0 +1,11 @@
+---
+title: "Shiny"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r cache=TRUE}
+knitr::include_app("https://samuelkwli.shinyapps.io/apptest/",
+                   height = "700px")
+```

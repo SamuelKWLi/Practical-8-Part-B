@@ -1,0 +1,12 @@
+name: apptest
+title: apptest
+username:
+account: samuelkwli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1534213
+bundleId: 2622821
+url: https://samuelkwli.shinyapps.io/apptest/
+when: 1574886561.86006
+asMultiple: FALSE
+asStatic: FALSE
