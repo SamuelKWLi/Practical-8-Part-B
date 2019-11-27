@@ -1,0 +1,13 @@
+---
+title: "Part B - Online Mapping"
+output: html_document
+---
+We will be conducting a min investigation in to airBnB lettings as new legislation sets a cap on short term letting to only 90 days. There is not enough info to enforce this so it needs to be improved. There are several ways to do this.
+
+## RPubs
+
+Rpubs is one of the more straighforward publishing tools that takes your .Rmd files and uploads them to their website where it is publically avaiable. 
+
+You first need to create an account with RPubs.
+
+Then create a new RMarkdown file.
